@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img width="346" alt="Screenshot 2023-06-26 at 7 20 15 PM" src="https://github.com/akollikonda/micard/assets/101874878/a30d08c3-566a-4332-9a98-26e9fc6db433">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
